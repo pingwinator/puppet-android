@@ -12,7 +12,7 @@
 #
 class android::platform_tools {
 
-  android::package{ 'platform-tools':
+  android::package{ 'tools':
     type => 'platform-tools',
   }
 
