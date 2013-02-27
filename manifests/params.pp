@@ -15,7 +15,7 @@ class android::params {
   $version    = '20.0.3'
   $proxy_host = undef
   $proxy_port = undef
-  $installdir = '/usr/local/android'
+  $installdir = '/Developer/andr'
   
   case $::kernel {
     'Linux': {
